@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-color: rgb(43, 43, 43);
+    height: 10vh;
+    font-family: abel;
+    padding: 10px;
+
+
+
+}
+
+.t1{
+    color: white;
+    display: inline-block;
+    padding: 10px;
+}
+
+.m1{
+    position: absolute;
+    top: 100px;
+    width: 90%;
+}
+
+form {
+    position: absolute;
+    top: 110vh;
+    left: 30vw;
+}
+
+button {
+    background-color: lime;
+    border: none;
+    color: white;
+    position: absolute;
+    top: 122vh;
+    left: 30vw;
+    width: 70px;
+    height: 20px;
+    bottom: 5vh;
+}
